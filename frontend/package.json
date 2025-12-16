@@ -13,8 +13,10 @@
     "@tailwindcss/vite": "^4.1.17",
     "dotenv": "^17.2.3",
     "ethers": "^6.16.0",
+    "sweetalert2": "^11.7.12",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-router-dom": "^7.10.1",
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
